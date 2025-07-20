@@ -16,3 +16,27 @@ A powerful combination of **Crypto**, **Data Science**, and **Statistics** – d
 ---
 
 ## 📁 Folder Structure
+
+## 🛠 Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebooks
+- Matplotlib / Seaborn / Plotly
+
+---
+
+## 🔗 Related Topics
+
+- Airdrop hunting strategy
+- Wallet behavior analysis
+- DeFi + Layer 1 usage trends
+- Telegram bot data scraping
+
+---
+
+## 🚀 About Me
+
+I'm **@XplorerSuleman**, a crypto airdrop hunter and data explorer.  
+Follow my journey on [Twitter](https://twitter.com/XplorerSuleman)
